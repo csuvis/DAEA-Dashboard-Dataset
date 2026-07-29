@@ -8,7 +8,7 @@ The dataset contains 414 dashboards covering 16 tasks across three scenarios.
 
 ## Availability
 
-The dataset, documentation, and related resources are currently being prepared and will be made publicly available upon publication of the paper.
+The dataset will be made publicly available upon publication of the paper.
 
 ## Citation
 
